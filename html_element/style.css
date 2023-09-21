@@ -4,6 +4,11 @@ body {
 
 }
 
+#mindiv{
+        padding: 50px;
+}
+/* Använder id elementet och detta är en kommentar i css */
+
 
 table,
 th,
@@ -12,6 +17,8 @@ td {
     width: 400px;
 
 }
+
+/*här använder vi class istället till elementet*/
 
 .hundar{
 
@@ -23,3 +30,5 @@ h4{
     font-style: italic;
     text-decoration: underline;
 }
+
+
