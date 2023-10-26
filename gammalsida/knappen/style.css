@@ -1,0 +1,38 @@
+body{
+
+background-color: aqua;
+
+color: black;
+
+
+
+
+}
+
+
+button{
+
+padding: 10px;
+margin: 10px;
+width: 40px;
+
+
+}
+
+h3{
+
+margin-left: 35px;
+
+}
+
+
+.taltext{
+
+    margin-left: 55px;
+}
+
+.main{
+
+margin-left: 600px;
+margin-top: 100px;
+}
