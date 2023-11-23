@@ -1,0 +1,10 @@
+.grid-container{
+display: grid;
+grid-template-columns: auto auto auto;
+background-color: aquamarine;
+
+}
+
+.grid-item{
+    margin-top: 15px;
+}
