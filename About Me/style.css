@@ -2,28 +2,85 @@ body{
     background-color: aqua;
 }
 
+.grid-container{
+display: grid;
+grid-template-columns: auto auto auto;
+
+}
+
 .Rubrik{
-    margin-left: 28%;
-    margin-top: 30px;
+    align-self: center;
+    text-align: center;
+    position: relative; 
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 365px;
+    margin-left: 365px;
+    border-color: gold;
+    background-color: gold;
     
 }
 
 h1{
     font-size: 45px;
     font-style: italic;
-
+    
 }
 h2{
     font-size: xx-large;
     font-style: italic;
-margin-left: 10px;
+   
+}
+h3{
+   font-size: larger;
+   font-style: italic;
+  
 }
 p{
     font-style: italic;
 }
 .Länkar{
+    text-align: center;
     border: 2px solid;
     padding: 10px;
-    margin-right: 1235px;
-    margin-left: 50px;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+
+.Länk-text{
+    text-align: center;
+}
+
+.musik-länk{
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 10px;
+text-align: center;
+border: solid 2px;
+border-radius: 10px;
+padding: 10px;
+}
+
+.länk2{
+align-items: center;
+text-align: center;
+margin-top: 10px;
+margin-left: 700px;
+margin-right: 700px;
+border: solid 2px;
+border-radius: 10px;
+padding: 10px;
+}
+
+.länk3{
+align-items: center;
+text-align: center;
+margin-top: 10px;
+margin-left: 700px;
+margin-right: 700px;
+border: solid 2px;
+border-radius: 10px;
+padding: 10px;
 }
