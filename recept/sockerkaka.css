@@ -1,12 +1,13 @@
 .main{
     display: grid;
     grid-template-columns: auto auto;
-
+    align-items: center;
 }
 .main img{
     border: 2px solid black;
     border-radius: 5px;
     margin-left: 10px;
+    
 }
 body{ background-color: aquamarine;}
 
@@ -23,7 +24,7 @@ h3{
     margin-left: 10px;
     padding-right: 15px;
     padding-bottom: 10px;
-    margin-top: 5px;
+    
 }
 .portioner{
     font-size: 25px;
@@ -47,8 +48,9 @@ margin-right: 50px;
 margin-top: 10px;
 border: 2px solid black;
 border-radius: 5px;
-padding-top: 10px;
+padding-top: 5px;
 padding-left: 40px;
 padding-bottom: 5px;
+padding-right: 10px;
 }
 
