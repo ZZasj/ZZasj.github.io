@@ -6,7 +6,6 @@ let text3 = document.getElementById("text3")
 function setText(){
     p.innerHTML=text.value + "." + text2.value +"@" + text3.value + ".com"
 
-    
     let r = Math.random() * 256
     let g = Math.random() * 256
     let b = Math.random() * 256
