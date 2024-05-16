@@ -1,0 +1,29 @@
+.headline{
+    font-family: fantasy;
+    font-size: 70px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    
+}
+.intro{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.mainbody{
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+
+}
+
+.othernationshumans{
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-right: 800px;
+    border-spacing: 10px;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+}
